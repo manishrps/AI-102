@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "AI-102 : AIEngineer",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AI-102-AIEngineer",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/01-get-started-cognitive-services.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/02-cognitive-services-security.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/03-monitor-cognitive-services.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/04-use-a-container.md",
+        "Order": 4
+      }
+    ]
+  }
+]
