@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "AI-102 : AIEngineer",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AI-102-AIEngineer",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/09-language-understanding-app.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/10-language-understanding-client.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/11-language-understanding-speech.md",
+        "Order": 3
+      }
+    ]
+  }
+]
