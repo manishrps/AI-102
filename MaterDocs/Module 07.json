@@ -1,8 +1,8 @@
 [
   {
-    "Name": "AZ-204 : Developing Solutions for Microsoft Azure",
+    "Name": "Module 7 : Create a Bot with the Bot Framework SDK",
     "Language": "English",
-    "BaseURL": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "BaseURL": "https://github.com/MicrosoftLearning/AI-102-AIEngineer",
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/13-bot-framework.md",
