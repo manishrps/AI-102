@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "AZ-204 : Developing Solutions for Microsoft Azure",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/05-analyze-text.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/prod/Instructions/06-translate-text.md",
+        "Order": 2
+      }
+    ]
+  }
+]
